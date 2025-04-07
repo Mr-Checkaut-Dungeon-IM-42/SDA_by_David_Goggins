@@ -36,7 +36,7 @@ int main()
         Sleep(1);
         coord.X = x;
         coord.Y = y;
-        SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coord);
+        SetConsoleCursorPosition(hout, coord);
         SetConsoleTextAttribute(hout, 5);
         printf("#");
 
