@@ -3,7 +3,9 @@
    <a href="https://git.io/typing-svg">
      <img src="https://readme-typing-svg.herokuapp.com/?lines=They+don't+know+me+son." />
    </a>
- </div>
+ </div>  
+
+ 
 **Лабораторні роботи потоку ІМ-4X, зроблені та здані з кров'ю і потом**☺️
 
 ## ℹ️ Гайд
